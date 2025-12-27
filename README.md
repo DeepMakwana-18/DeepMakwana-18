@@ -28,15 +28,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepMakwana-18&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMakwana-18&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepMakwana-18&theme=github-compact" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -49,10 +49,10 @@
 ---
 
 ### 🚀 Badges
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)  
-![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=DeepMakwana-18&style=flat-square&color=blue)  
+![Followers](https://img.shields.io/github/followers/DeepMakwana-18?label=Followers&style=social)  
+![Stars](https://img.shields.io/github/stars/DeepMakwana-18?label=Stars&style=social)  
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [DeepMakwana-18](https://github.com/DeepMakwana-18)
