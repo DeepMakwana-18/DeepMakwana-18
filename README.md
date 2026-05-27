@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Deep Makwana</h1>
 <h3 align="center">Machine Learning | Data Science & Analytics | Python, SQL | Data-Driven Solutions</h3>
 
@@ -149,4 +149,4 @@
 <p align="center">
   ⭐ Turning Data into Insights | Building Intelligent Solutions
 </p>
-```
+
