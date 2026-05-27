@@ -1,58 +1,152 @@
-<!-- Profile README for your GitHub -->
+```markdown
+<h1 align="center">Hi 👋, I'm Deep Makwana</h1>
+<h3 align="center">Machine Learning | Data Science & Analytics | Python, SQL | Data-Driven Solutions</h3>
 
-<h1 align="center">👋 Hi, I'm Deep Makwana</h1>
-<h3 align="center">A passionate learner exploring Java, C, and the world of programming 🚀</h3>
-
----
-
-## 💻 About Me
-<table>
-<tr>
-<td width="60%">
-  
-- 🌱 Currently learning **Java, DSA, and Web Development**  
-- 👨‍💻 I love building **projects & solving problems**  
-- 🎯 Goal: Become a **C & Java Master**  
-- ⚡ Fun fact: I always wear **jeans & a shirt** 😎  
-
-</td>
-<td width="40%" align="center">
-  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250"/>
-  
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepMakwana-18&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMakwana-18&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <a href="https://github.com/DeepMakwana-18">
+    <img src="https://komarev.com/ghpvc/?username=DeepMakwana-18&label=Profile%20Views&color=7B3FE4&style=for-the-badge" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🚀 About Me
+
+💡 I enjoy working with data, building predictive models, and transforming raw information into meaningful insights.
+
+🔹 Focused on **Machine Learning, Data Science, and Analytics**  
+🔹 Strong foundation in **Python, SQL, Data Structures & Algorithms**  
+🔹 Interested in **Predictive Modeling, Dashboarding, and Backend Systems**  
+🔹 Active participant in **Hackathons** and collaborative problem-solving environments  
+🔹 Passionate about building scalable and practical data-driven solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql" />
+</p>
+
+### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Pandas  
+- NumPy  
+- scikit-learn  
+- Matplotlib  
+- NLP  
+- Feature Engineering  
+- Model Evaluation  
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" />
+</p>
+
+- SQLite  
+- MSSQL  
+- ChromaDB  
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+- Jupyter Notebook  
+- Power BI  
+- MS Excel  
+- Prisma  
+- Redis  
+- NGINX  
+
+---
+
+# 📌 Featured Projects
+
+## 📈 Stock Analyzer – Production-Ready Stock Analysis Platform
+🔹 FastAPI + React based stock analysis platform  
+🔹 ML-powered stock forecasting using scikit-learn  
+🔹 Real-time market data integration with REST APIs  
+🔹 Redis caching, Docker deployment, and scalable architecture  
+
+---
+
+## 🏥 Disease Prediction System
+🔹 Full-stack healthcare prediction platform  
+🔹 Diabetes & heart disease risk prediction models  
+🔹 REST API integration with Python ML pipeline  
+🔹 Automated PDF report generation  
+
+---
+
+## 📊 Stock Market Trend Analysis
+🔹 Exploratory Data Analysis on stock market datasets  
+🔹 Feature engineering and predictive modeling  
+🔹 Trend visualization using Matplotlib  
+🔹 Data-driven forecasting workflows  
+
+---
+
+# 🧠 Problem Solving
+
+✔ Solved Data Structures & Algorithms problems covering:
+- Arrays  
+- Strings  
+- Hashing  
+- Recursion  
+- Searching  
+- Sorting  
+
+✔ Regular LeetCode practice focused on analytical thinking and optimization.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepMakwana-18&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepMakwana-18&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMakwana-18&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+# 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,git,github,vscode" />
+  <img src="https://streak-stats.demolab.com?user=DeepMakwana-18&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
 
-### 🚀 Badges
-![Profile Views](https://komarev.com/ghpvc/?username=DeepMakwana-18&style=flat-square&color=blue)  
-![Followers](https://img.shields.io/github/followers/DeepMakwana-18?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/DeepMakwana-18?label=Stars&style=social)  
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/deep-makwana-b27b29363/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:deepmakwana1308@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/DeepMakwana-18">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
 ---
 
-⭐️ From [DeepMakwana-18](https://github.com/DeepMakwana-18)
+<p align="center">
+  ⭐ Turning Data into Insights | Building Intelligent Solutions
+</p>
+```
