@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:7c3aed&text=DEEP%20MAKWANA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20ENGINEERING%20%7C%20BIG%20DATA%20%7C%20ANALYTICS&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Deep Makwana — Data Engineering"/>
 
 <a href="https://www.linkedin.com/in/deepmakwana13/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/DeepMakwana1308"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/DeepMakwana-18"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:deepmakwana1308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
